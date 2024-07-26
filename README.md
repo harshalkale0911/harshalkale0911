@@ -1,5 +1,5 @@
 <h1> Hi 👋, I'm Harshal Kale </h1>
-<p> A passionate Full-Stack developer from India </p>
+<h3> A passionate Full-Stack developer 💻 from India </h3>
 
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Image"/>
 
